@@ -25,6 +25,17 @@ public class Pedido {
 	public void setValorTotal(double valorTotal) {
 		this.valorTotal = valorTotal;
 	}
+	public boolean calcularTotal () {
+		return calcularTotal();
+	
+	}
+	public String finalizarPedido() {
+		
+		return finalizarPedido();
+		
+	}
 	
 	
+	
+
 }

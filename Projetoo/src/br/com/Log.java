@@ -20,5 +20,6 @@ public class Log {
 		this.hora = hora;
 	}
 	
+	
 
 }
