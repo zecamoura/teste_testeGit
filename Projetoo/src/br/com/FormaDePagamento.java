@@ -22,7 +22,7 @@ public class FormaDePagamento {
 	}
 
 	public void realizarPagamento(double valor) {
-
+		System.out.println("O valor foi pago");
 	}
 
 	public void cartaoDeCredito(double valor) {
