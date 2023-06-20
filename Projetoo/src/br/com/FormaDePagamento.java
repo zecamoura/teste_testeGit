@@ -26,14 +26,19 @@ public class FormaDePagamento {
 	}
 
 	public void cartaoDeCredito(double valor) {
+			System.out.println("O valor foi pago em cartão de crédito");
 
-	}
+		}
+
+	
 
 	public void boleto(double valor) {
-	}
+			System.out.println("O valor foi pago em boleto");
+		}
+	
 
 	public void dinheiro(double valor) {
-
+		System.out.println("O valor foi pago em dinheiro");
 	}
 
 }
